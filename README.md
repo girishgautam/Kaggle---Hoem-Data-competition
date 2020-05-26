@@ -1,1 +1,1 @@
-# Kaggle---Hoem-Data-competition
+# Kaggle---Home-Data-competition
