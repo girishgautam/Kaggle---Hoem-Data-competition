@@ -4,6 +4,7 @@
 * Used two different approaches to predict the house prices.
 
    One method using ColumnTransformer, making a pipeline, Using GridSearchCv for hyper parameter tuning.
+   
    Second method using standardization, normalisation, XGBoost, SVR, Random forest regressor.
 
 ## Code and Resources Used
